@@ -137,7 +137,7 @@ function check() {
     alert("only one word and no spaces ");
     return;
   } else {
-    Promise.all([
+    Promise.allSettled([
       getAge(ageURL),
       getGender(genderURL),
       getnationality(nationalURL),

@@ -103,5 +103,8 @@ position: relative;
 right: 680px;
    width: 300px;
    height: 50vh;
-   border: 1px solid black;
+   border: 2px solid  rgb(137, 113, 112);
+background-color: rgb(249, 224, 224);
+box-shadow: 2rem 1rem 100px black;
 }
+
