@@ -4,7 +4,6 @@
   padding: 0;
 }
 body {
-  border: 1px solid black;
   background-color: rgb(137, 113, 112);
   width: 100%;
 }
@@ -12,11 +11,8 @@ body {
     display: flex;
     justify-content: center;
    position: absolute;
-    border: 1px solid black;
     column-gap: 30rem;
     height: 100vh;
-
-   
 }
 
 label ,#name {
